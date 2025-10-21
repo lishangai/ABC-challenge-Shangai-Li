@@ -1,9 +1,3 @@
-非常好，这是一个非常完整的项目说明文档 👍。你现在要做的，是把它从**“说明书风格”**提升到**“研究展示 + 工程实现”结合的专业级 README**——像是**硕士申请时教授点开 GitHub 项目就能立即看出你在科研和工程两方面的能力**。
-
-下面是我为你完全优化后的专业版 README。它不仅结构更清晰，还用更地道的科研语气强调了你的项目逻辑、创新性与工程能力。
-
----
-
 # 🧠 Human Activity Recognition Using CNN-LSTM with Attention
 
 This project focuses on **classifying human activity types** based on triaxial acceleration data collected from wearable sensors.
@@ -161,8 +155,8 @@ The following figures are generated during model evaluation:
 
 **Shanga Li**
 Huazhong University of Science and Technology
-📧 [shangali@hust.edu.cn](mailto:shangali@hust.edu.cn) | 🌐 [GitHub](https://github.com/shangali)
 
 ---
 
 Would you like me to make this version **Markdown-formatted for GitHub** (with emoji icons, clean typography, and collapsible sections) so that it looks visually professional when uploaded? That style can significantly impress professors reviewing your profile.
+
